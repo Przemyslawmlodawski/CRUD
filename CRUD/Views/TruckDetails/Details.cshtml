@@ -1,0 +1,42 @@
+﻿@model CRUD.Models.TruckDetail
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>TruckDetail</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TruckDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TruckDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TruckColor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TruckColor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TruckRefBrands.TruckRefBrandName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TruckRefBrands.TruckRefBrandName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TruckID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
