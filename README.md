@@ -33,6 +33,6 @@ My web app was created for managing cars. Build in C# and ASP.NET Core technolog
 ## Code Example/Issues 🔍
 Autoryzacja
 // role użytkowników przechowywane w kontrolerach
-[CustomAuthorize(Roles = "admin,user")]
+
 ## Live 📍
 URL to demo website: [CLICK](https://crud20220116131103.azurewebsites.net/TruckDetails)
