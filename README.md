@@ -1,12 +1,4 @@
-# pwco<h1 align="center">
 
-<br>
-
-<br>
-
-<br>
-
-</h1>
 
 <h4 align="center">Car Details App</h4>
 ## Project Overview 🎉
