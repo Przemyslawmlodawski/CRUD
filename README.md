@@ -8,13 +8,7 @@
 
 </h1>
 
-<h4 align="center">Employees Management Tool</h4>
-
-<p align="center">
-  <img src="https://github.com/TheNFC/pwco/blob/master/screenshots/mainScreen.png"
-      alt="Screenshot">
-  </p>
-
+<h4 align="center">Car Details App</h4>
 ## Project Overview 🎉
 Our web app was created for managing cars. Build in C# and ASP.NET Core technology, using Microsoft SQL DB host on Azure to store data. 
 ## Tech/framework used 🔧
@@ -29,16 +23,20 @@ Our web app was created for managing cars. Build in C# and ASP.NET Core technolo
 ## Screenshots 📺
 
 <p align="center">
-    <img src="https://github.com/TheNFC/pwco/blob/master/screenshots/GeneralLook.png" alt="Screenshot">
+    <img src="https://github.com/Przemyslawmlodawski/CRUD/blob/master/Screenshot/mainscreen.png" alt="Screenshot">
 </p>
 
 <p align="center">
-    <img src="https://github.com/TheNFC/pwco/blob/master/screenshots/AddEmployee.png" alt="Screenshot">
+    <img src="https://github.com/Przemyslawmlodawski/CRUD/blob/master/Screenshot/TruckBrands.png" alt="Screenshot">
 </p>
 
 <p align="center">
     <img src="https://github.com/TheNFC/pwco/blob/master/screenshots/Edit.png" alt="Screenshot">
 </p>
+<p align="center">
+    <img src="https://github.com/Przemyslawmlodawski/CRUD/blob/master/Screenshot/add.png" alt="Screenshot">
+</p>
+
 
 ## Code Example/Issues 🔍
 Autoryzacja
