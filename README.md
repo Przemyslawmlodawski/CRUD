@@ -31,7 +31,7 @@ My web app was created for managing cars. Build in C# and ASP.NET Core technolog
 </p>
 
 <p align="center">
-    <img src="https://github.com/TheNFC/pwco/blob/master/screenshots/Edit.png" alt="Screenshot">
+    <img src="https://github.com/Przemyslawmlodawski/CRUD/blob/master/Screenshot/edit.png" alt="Screenshot">
 </p>
 <p align="center">
     <img src="https://github.com/Przemyslawmlodawski/CRUD/blob/master/Screenshot/add.png" alt="Screenshot">
