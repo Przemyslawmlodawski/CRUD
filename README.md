@@ -10,7 +10,7 @@
 
 <h4 align="center">Car Details App</h4>
 ## Project Overview 🎉
-Our web app was created for managing cars. Build in C# and ASP.NET Core technology, using Microsoft SQL DB host on Azure to store data. 
+My web app was created for managing cars. Build in C# and ASP.NET Core technology, using Microsoft SQL DB host on Azure to store data. 
 ## Tech/framework used 🔧
 
 | Tech                                                    | Description                              |
