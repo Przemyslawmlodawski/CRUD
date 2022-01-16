@@ -18,13 +18,13 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                @Html.ActionLink("Nazwa aplikacji", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("Car Details", "Index", "TruckDetails", new { area = "" }, new { @class = "navbar-brand" })
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                    <li>@Html.ActionLink("Informacje", "About", "Home")</li>
-                    <li>@Html.ActionLink("Kontakt", "Contact", "Home")</li>
+                    <li>@Html.ActionLink("List Truck Details", "Index", "TruckDetails")</li>
+                    <li>@Html.ActionLink("List Truck Brands", "Index", "TruckRefBrands")</li>
                 </ul>
                 @Html.Partial("_LoginPartial")
             </div>
